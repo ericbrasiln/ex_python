@@ -1,2 +1,7 @@
 # ex_python
-Repositório com exercícios da disciplina PPGCS012
+
+Disciplina PPGCS012
+
+Repositório com exercícios de python
+
+Semana 6.
